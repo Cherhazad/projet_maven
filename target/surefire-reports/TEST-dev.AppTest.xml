@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.AppTest" time="0.018" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.AppTest" time="0.023" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/test-classes:/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/classes:/Users/plantsarelife/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/test-classes:/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/classes:/Users/plantsarelife/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/plantsarelife/.m2/repository/com/github/lalyos/jfiglet/0.0.3/jfiglet-0.0.3.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
     <property name="os.name" value="Mac OS X"/>
     <property name="java.vm.specification.version" value="21"/>
-    <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522152852372_3.jar /Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire 2024-05-22T15-28-52_308-jvmRun1 surefire-20240522152852372_1tmp surefire_0-20240522152852372_2tmp"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/21.0.3/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522171834832_3.jar /Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire 2024-05-22T17-18-34_771-jvmRun1 surefire-20240522171834832_1tmp surefire_0-20240522171834832_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="test" value="dev.AppTest"/>
-    <property name="surefire.test.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/test-classes:/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/classes:/Users/plantsarelife/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/test-classes:/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/classes:/Users/plantsarelife/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/plantsarelife/.m2/repository/com/github/lalyos/jfiglet/0.0.3/jfiglet-0.0.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/plantsarelife"/>
     <property name="user.language" value="fr"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.version.date" value="2024-04-16"/>
-    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home"/>
+    <property name="java.home" value="/opt/homebrew/Cellar/openjdk/21.0.3/libexec/openjdk.jdk/Contents/Home"/>
     <property name="file.separator" value="/"/>
     <property name="basedir" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522152852372_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522171834832_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="21.0.3+7-LTS-152"/>
+    <property name="java.runtime.version" value="21.0.3"/>
     <property name="user.name" value="plantsarelife"/>
     <property name="stdout.encoding" value="UTF-8"/>
     <property name="path.separator" value=":"/>
     <property name="os.version" value="14.3.1"/>
-    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
-    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="maven.ext.class.path" value="/Users/plantsarelife/.vscode/extensions/oracle.oracle-java-22.0.0/nbcode/java/maven-nblib/netbeans-eventspy.jar"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
     <property name="localRepository" value="/Users/plantsarelife/.m2/repository"/>
-    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
     <property name="java.io.tmpdir" value="/var/folders/n9/bjlttwgd09qgd1s21f9wlrj40000gn/T/"/>
     <property name="java.version" value="21.0.3"/>
     <property name="user.dir" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven"/>
@@ -51,8 +50,8 @@
     <property name="java.library.path" value="/Users/plantsarelife/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="UTF-8"/>
-    <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.version" value="21.0.3+7-LTS-152"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="21.0.3"/>
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
