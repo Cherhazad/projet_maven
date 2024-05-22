@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/21.0.3/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522171834832_3.jar /Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire 2024-05-22T17-18-34_771-jvmRun1 surefire-20240522171834832_1tmp surefire_0-20240522171834832_2tmp"/>
+    <property name="sun.java.command" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522174331148_3.jar /Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire 2024-05-22T17-43-31_059-jvmRun1 surefire-20240522174331148_1tmp surefire_0-20240522174331148_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/test-classes:/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/classes:/Users/plantsarelife/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/plantsarelife/.m2/repository/com/github/lalyos/jfiglet/0.0.3/jfiglet-0.0.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -28,7 +28,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522171834832_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/plantsarelife/Desktop/Diginamic/Cours/16. MAVEN/Workspace Projet_Maven/premier-projet-maven/target/surefire/surefirebooter-20240522174331148_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.3"/>
     <property name="user.name" value="plantsarelife"/>
